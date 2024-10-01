@@ -1,4 +1,8 @@
-## Hi there 👋
+## Welcome
+- 🦀 I'm currently learning Rust language
+- 💬 Contact me via [telegram](https://t.me/lll_Death_lll)
+
+[![roadmap.sh](https://roadmap.sh/card/tall/66e8103bf34c8868ec9519ad?variant=dark&roadmaps=computer-science%2Cdatastructures-and-algorithms%2Csoftware-design-architecture%2Csystem-design)](https://roadmap.sh)
 
 <!--
 **lll-Death-lll/lll-Death-lll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
